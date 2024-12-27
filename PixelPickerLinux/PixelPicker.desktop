@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Exec=python3 "/home/username/PixelPickerLinux/pixel_picker.py"
+Name=PixelPicker
+Icon=/home/username/PixelPickerLinux/PixelPicker.ico
+Name[en_US]=PixelPicker
